@@ -11,7 +11,7 @@
 - 🖥 I’m learning UI/UX design, Machine Learning, and Deep Learning
 - 💬 Ask me about Adobe XD, Figma, and Sketch! I will try to provide a good answer to your questions!
 - 📫 How to reach me: @hemingallery where I take travelling photos 📸 and @hi.hemin for cool story updates 'bout my life ~~
-- 🐟 I am a Pisces ♓️ with lots of loves of this world and human beings
+- 🐟 I am a Pisces ♓️ with lots of loves for this world and human beings
 - 👩🏻 I speak Vietnamese, Chinese, English, and Korean
 --> linkedin with me via https://www.linkedin.com/in/heminvu/
 
