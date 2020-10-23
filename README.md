@@ -2,9 +2,6 @@
 
 [![HitCount](http://hits.dwyl.com/pohpoh0703/pohpoh0703.svg)](http://hits.dwyl.com/pohpoh0703/pohpoh0703)
 
-<!--
-**pohpoh0703/pohpoh0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
  ❤️❤️❤️ Something to know about me 💡
 
 - 🌱 I come from Vietnam 🇻🇳, spent my high school in the US 🇺🇸, and currently studying in South Korea 🇰🇷
