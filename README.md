@@ -6,7 +6,7 @@
 
 - 🌱 I come from Vietnam 🇻🇳, spent my high school in the US 🇺🇸, and currently studying in South Korea 🇰🇷
 - 🏞 I am an undergraduate at Yonsei University, currently based in Incheon International Campus at Songdo 
-- 🔭 I double major in Information Interactive Design (IID) and Quantitative Risk Management (QRM)
+- 🔭 I double major in Information Interactive Design (IID) and Asian Studies (ASD)
 - 📚 I hope I can do my third major in Economics and a major in Korean Studies as well 
 - 🖥 I’m learning UI/UX design, Machine Learning, and Deep Learning
 - 💬 Ask me about Adobe XD, Figma, and Sketch! I will try to provide a good answer to your questions!
